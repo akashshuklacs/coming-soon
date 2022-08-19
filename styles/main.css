@@ -116,10 +116,10 @@ h1,
 }
 
 .container .right .mainInfo h1{
-  font-size: 2em;
-  margin-left: 1em;
+  font-size: 2.5em;
+  margin-left: 0.75em;
 }
-.container .right .mainInfo h3{
+.container .right .mainInfo h5{
   font-size: 2em;
   margin-left: 1em;
 }
